@@ -148,7 +148,7 @@ int heap_extract(heap_t **root)
 				child = parent->left;
 			}
 		}
-		else 
+		else
 		{
 			child = NULL;
 		}
